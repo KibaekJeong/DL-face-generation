@@ -34,3 +34,5 @@ In following project, [facial images of celebrities](https://www.kaggle.com/greg
 ## Sample Output
 Here is the final output from DCGAN trained in following project:
 ![image1](./images/result.png)
+
+Although not all the images look realistic, most of the images are quite realistic. DCGAN seems to be trained enough to produce realistic facial image. One thing to consider, as most of the training images were caucasian, therefore output facial images has very similar skin color. 
